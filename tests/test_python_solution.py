@@ -1,6 +1,7 @@
 import json
 import pytest
 
+
 from solution_python import EventSourcer
 
 def test_add():
